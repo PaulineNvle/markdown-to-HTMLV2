@@ -1,0 +1,114 @@
+
+body{
+    align-items: center;
+    text-align: center;
+    background-color: #d4c7b9;
+}
+h3, p, table{
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    
+}
+h1 {
+    align-items: center;
+    font-weight:bold;
+}
+.MaPhoto {
+    display: flex;
+    justify-content: center;
+
+}
+
+img{
+    width: 200px;
+    border-radius: 12%;
+}
+
+#table {
+    position: relative;
+    margin-top: 50px;
+  }
+  table {
+    width: 90%; 
+    max-width: 1600px;
+    margin: auto; 
+    table-layout: fixed;
+  }
+  
+  th, td {
+    border: 1px solid #621874;
+    padding: 8px;
+    text-align: center;
+    border-radius: 10px;
+  }
+#checkBoxList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+  }
+  
+  th {
+    background-color: rgb(178, 125, 190);
+    color: rgb(90, 28, 93);
+  }
+  
+  .myCheckbox {
+    margin-right: 5px;
+  }
+  
+#checkBoxList {
+    color: #000000;
+    text-align: center;
+  }
+ul{
+    list-style-type: none;
+}
+.hobbies{
+    border: 3px solid rgb(212, 117, 50);
+    margin-top:2px;
+    margin-bottom:2px;
+    padding: 2px;
+    width: 900px;
+    margin: auto;
+}
+.liste1{
+    border: 3px solid rgb(212, 117, 50);
+    margin-top:2px;
+    margin-bottom:2px;
+    padding: 2px;
+    width: 900px;
+    margin: auto;
+}
+.count{
+    border: 3px solid rgb(212, 117, 50);
+    margin-top:2px;
+    margin-bottom:2px;
+    padding: 2px;
+    width: 900px;
+    margin: auto;
+}
+.liste2{
+    border: 3px solid rgb(212, 117, 50);
+    margin: top 10px;;
+    margin-bottom:10px;
+    padding: 2px;
+    width: 900px;
+    margin: auto;
+}
+.funny{
+    border: 3px solid rgb(212, 117, 50);
+    margin-top:2px;
+    margin-bottom:2px;
+    padding: 2px;
+    width: 900px;
+    margin: auto;
+}
+.bloc{
+    order: 3px solid rgb(212, 117, 50);
+    margin-top:2px;
+    margin-bottom:2px;
+    padding: 2px;
+    width: 900px;
+    margin: auto;
+}
